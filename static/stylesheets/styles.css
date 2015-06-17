@@ -1,0 +1,36 @@
+body {
+    background: url("../images/earth.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+    color: #ffffff;
+    
+    font-family: 'Helvetica Neue', Helvetica;
+    font-weight: 100;
+    font-size: 60px;
+    margin: 0px;
+}
+
+p {
+    color: #ffffff;
+
+    font-family: 'Helvetica Neue', Helvetica;
+    font-weight: 200;
+}
+
+.box {
+    background-color: rgba(42, 63, 181, 0.5);
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    width: 300px;
+    margin: 300px auto;
+    text-align: center;
+    
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
